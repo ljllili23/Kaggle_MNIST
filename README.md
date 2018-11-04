@@ -1,2 +1,2 @@
 # Kaggle_MNIST
-getting started with kaggle
+## getting started with kaggle
